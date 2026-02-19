@@ -11,7 +11,7 @@ const CTASection = () => {
             Ready to Measure Real Impact?
           </h2>
           <p className="mt-4 text-lg text-primary-foreground/75 max-w-xl mx-auto">
-            Join 200+ organizations using ImpactTrack to transform their monitoring & evaluation processes.
+            Join 200+ organizations using ngolytics to transform their monitoring & evaluation processes.
           </p>
           <Link to="/dashboard" className="inline-block mt-8">
             <Button size="lg" className="bg-accent border-0 text-accent-foreground hover:bg-accent/90 px-8 text-base">

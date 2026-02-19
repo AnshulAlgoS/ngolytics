@@ -13,7 +13,7 @@ const FeaturesSection = () => {
           <span className="text-sm font-semibold text-primary uppercase tracking-wider">Platform Features</span>
           <h2 className="section-title mt-2">Everything You Need to Track Real Impact</h2>
           <p className="section-subtitle mx-auto">
-            From beneficiary registration to donor-ready reports, ImpactTrack covers every aspect of monitoring and evaluation.
+            From beneficiary registration to donor-ready reports, ngolytics covers every aspect of monitoring and evaluation.
           </p>
         </div>
 

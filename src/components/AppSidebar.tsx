@@ -20,7 +20,7 @@ const AppSidebar = () => {
           <Heart className="h-5 w-5 text-primary-foreground" />
         </div>
         <div>
-          <h1 className="text-base font-bold text-foreground leading-tight">ImpactTrack</h1>
+          <h1 className="text-base font-bold text-foreground leading-tight">ngolytics</h1>
           <p className="text-[11px] text-muted-foreground">NGO Impact Platform</p>
         </div>
       </div>
@@ -46,7 +46,7 @@ const AppSidebar = () => {
       </nav>
 
       <div className="border-t border-border p-4 flex items-center justify-between">
-        <p className="text-xs text-muted-foreground">© 2024 ImpactTrack</p>
+        <p className="text-xs text-muted-foreground">© 2024 ngolytics</p>
         <ThemeToggle />
       </div>
     </aside>

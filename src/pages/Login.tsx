@@ -37,7 +37,7 @@ const Login = () => {
             <div className="flex h-10 w-10 items-center justify-center rounded-lg gradient-primary">
               <Heart className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">ImpactTrack</span>
+            <span className="text-xl font-bold text-foreground">ngolytics</span>
           </Link>
         </div>
 
@@ -103,7 +103,7 @@ const Login = () => {
         </Card>
 
         <p className="text-center text-xs text-muted-foreground mt-6">
-          © 2026 ImpactTrack. All rights reserved.
+          © 2026 ngolytics. All rights reserved.
         </p>
       </div>
     </div>

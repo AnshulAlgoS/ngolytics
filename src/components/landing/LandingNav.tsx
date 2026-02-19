@@ -35,7 +35,7 @@ const LandingNav = () => {
           <div className="flex h-9 w-9 items-center justify-center rounded-xl gradient-primary transition-transform duration-200 group-hover:scale-105">
             <Heart className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="text-lg font-bold text-foreground tracking-tight">ImpactTrack</span>
+          <span className="text-lg font-bold text-foreground tracking-tight">ngolytics</span>
         </Link>
 
         <nav className="hidden md:flex items-center gap-1">

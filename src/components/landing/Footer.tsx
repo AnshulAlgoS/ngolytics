@@ -10,7 +10,7 @@ const Footer = () => {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg gradient-primary">
                 <Heart className="h-4 w-4 text-primary-foreground" />
               </div>
-              <span className="text-base font-bold text-foreground">ImpactTrack</span>
+              <span className="text-base font-bold text-foreground">ngolytics</span>
             </div>
             <p className="mt-3 text-sm text-muted-foreground leading-relaxed max-w-xs">
               Empowering NGOs with data-driven tools to measure, track, and demonstrate real beneficiary impact.
@@ -45,7 +45,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-10 border-t border-border pt-6 text-center text-xs text-muted-foreground">
-          © 2026 ImpactTrack. All rights reserved. Built with ❤️ for NGOs worldwide.
+          © 2026 ngolytics. All rights reserved. Built with ❤️ for NGOs worldwide.
         </div>
       </div>
     </footer>

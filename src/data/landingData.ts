@@ -1,7 +1,7 @@
 export const newsArticles = [
   {
     id: "1",
-    title: "ImpactTrack Helps 500+ Families Access Clean Water in Rural Ghana",
+    title: "ngolytics Helps 500+ Families Access Clean Water in Rural Ghana",
     excerpt: "Our Clean Water Initiative program has successfully connected over 500 families to sustainable water sources, dramatically reducing waterborne diseases in the Volta Region.",
     date: "Feb 12, 2026",
     category: "Impact Story",
@@ -47,7 +47,7 @@ export const newsArticles = [
   {
     id: "6",
     title: "Health & Nutrition Program Cuts Malnutrition by 40% in Kenya",
-    excerpt: "Community health workers using ImpactTrack have achieved a 40% reduction in child malnutrition rates across three counties in western Kenya.",
+    excerpt: "Community health workers using ngolytics have achieved a 40% reduction in child malnutrition rates across three counties in western Kenya.",
     date: "Dec 20, 2025",
     category: "Impact Story",
     image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
@@ -97,7 +97,7 @@ export const statsData = [
 
 export const testimonialsData = [
   {
-    quote: "ImpactTrack transformed how we measure and report our program outcomes. Donors now see real data, not just stories.",
+    quote: "ngolytics transformed how we measure and report our program outcomes. Donors now see real data, not just stories.",
     name: "Dr. Amina Koroma",
     role: "Program Director, Hope Foundation",
   },

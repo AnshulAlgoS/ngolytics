@@ -1,8 +1,8 @@
-# Uplift Scope
+# ngolytics
 
 ## Overview
 
-Uplift Scope is a React + TypeScript application built with Vite, Tailwind CSS, and shadcn-ui components. It focuses on tracking and visualizing beneficiary impact across programs.
+ngolytics is a React + TypeScript application built with Vite, Tailwind CSS, and shadcn-ui components. It focuses on tracking and visualizing beneficiary impact across programs.
 
 ## Getting started
 
