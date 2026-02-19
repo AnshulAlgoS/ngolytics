@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Heart, Menu, X, Sparkles } from "lucide-react";
+import { Menu, X, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import ThemeToggle from "@/components/ThemeToggle";
 import { useState, useEffect } from "react";
@@ -32,8 +32,8 @@ const LandingNav = () => {
     >
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-6 lg:px-8">
         <Link to="/" className="flex items-center gap-2.5 group">
-          <div className="flex h-9 w-9 items-center justify-center rounded-xl gradient-primary transition-transform duration-200 group-hover:scale-105">
-            <Heart className="h-5 w-5 text-primary-foreground" />
+          <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-white shadow-sm transition-transform duration-200 group-hover:scale-105">
+            <img src="/favicon.ico.jpeg" alt="ngolytics logo" className="h-8 w-8 rounded-lg object-contain" />
           </div>
           <span className="text-lg font-bold text-foreground tracking-tight">ngolytics</span>
         </Link>

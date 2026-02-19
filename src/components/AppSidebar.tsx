@@ -1,5 +1,5 @@
 import { NavLink, useLocation } from "react-router-dom";
-import { LayoutDashboard, Users, BarChart3, Heart, MapPin, FileText } from "lucide-react";
+import { LayoutDashboard, Users, BarChart3, MapPin, FileText } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
 
 const navItems = [
@@ -16,8 +16,8 @@ const AppSidebar = () => {
   return (
     <aside className="fixed left-0 top-0 z-30 flex h-screen w-64 flex-col border-r border-border bg-card">
       <div className="flex items-center gap-2.5 px-6 py-5 border-b border-border">
-        <div className="flex h-9 w-9 items-center justify-center rounded-lg gradient-primary">
-          <Heart className="h-5 w-5 text-primary-foreground" />
+        <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white shadow-sm">
+          <img src="/favicon.ico.jpeg" alt="ngolytics logo" className="h-8 w-8 rounded-lg object-contain" />
         </div>
         <div>
           <h1 className="text-base font-bold text-foreground leading-tight">ngolytics</h1>
